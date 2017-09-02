@@ -1,0 +1,43 @@
+Mensagens:
+  Ajuda:
+    use-ajuda: '&cUse: /ajuda <pergunta>'
+    duvida-pendente: '&cVoce ja tem uma duvida em aberto, espere algum staff responder.'
+    duvida-enviada:
+    - ''
+    - ' &aSua duvida foi enviada com sucesso.'
+    - '    &cLembre-se: O mal uso desse sistema causa puniçao.'
+    - ''
+    duvida-recebida:
+    - ''
+    - '   §e§lNova Dúvida!'
+    - ''
+    - ' §7Autor: §b{autor}'
+    - ' §7Duvida: §b{duvida}'
+    - ''
+    - '  §7Use: §b/responder <player> <resposta>'
+    - ''
+  Responder:
+    player-offline: '§cEsse player está offline.'
+    nao-pediu-ajuda: '§cEsse player não tem nenhuma dúvida pendente.'
+    modo-de-uso:
+    - ''
+    - '§c/responder <player> <resposta> §7Responder um player.'
+    - '§c/responder <player> §7Ver dúvida do player.'
+    - ''
+    informacoes:
+    - ''
+    - '§7Informações pendentes do player §b{autor}'
+    - '§7Dúvida pendente: §b{duvida}'
+    - ''
+    respondida-staff:
+    - ''
+    - '§7Você respondeu o player §b{autor}'
+    - '§7Dúvida dele: §b{duvida}'
+    - '§7Sua resposta: §b{resposta}'
+    - ''
+    respondida-autor:
+    - ''
+    - '  §aSua dúvida foi respondida!'
+    - '  §aSua dúvida: §7{duvida}'
+    - '  §aResposta: §7{resposta}'
+    - ''

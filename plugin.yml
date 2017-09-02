@@ -1,0 +1,9 @@
+main: eu.luscau.Ajuda
+name: lcAjuda
+author: Luscau
+version: 1.0
+commands:
+  ajuda:
+    description: Pedir ajuda à algum staff online.
+  responder:
+    description: Responder uma dúvida de um player.
